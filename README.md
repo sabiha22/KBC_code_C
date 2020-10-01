@@ -11,4 +11,4 @@ KBC game in C language
 7) Each lifeline can be used only once.
 8) If you press 'L' , lifeline 50:50 will be activated and two incorrect options will be deleted and you will be prompted to answer again.
 9) If you press 'F', lifeline flip the question will be activated and a new question will be shown on screen.
-10) User can quit the game by pressing 'Q' if he does not want to naswer any question. In that case prize money upto the last question will be awarded.
+10) User can quit the game by pressing 'Q' if he does not want to answer any question. In that case prize money upto the last question will be awarded.
