@@ -1,5 +1,4 @@
-# KBC_code_C
-## KBC game in C language
+## KBC game in C language<br>
 1)The input file is ques.txt which has been used to read and display the questions for which user will attempt an answer.<br>
 2) When you run the exe, it will display the details of the game and its rules. Then it will prompt you to enter any key to start a game.<br>
 3) After that, a question will be displayed on the screen. You have to input a choice from A,B,C,D(options to the question) or lifelines(Press L or Q) or quit the game
